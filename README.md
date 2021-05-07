@@ -6,7 +6,7 @@ cm1r19_VSE -- source code for the version of George Bryan's CM1 used for this st
 
 namelist.input.vse -- sample namelist for running the experiments in Katona et al. (2021). 
 
-perts.dat -- Terrain file ised in the VSE CM1 experiments.
+perts.dat -- Terrain file used in the VSE CM1 experiments.
 
 input_sounding_20170405_final  -- Input sounding used for the SW flow experiment 
 
